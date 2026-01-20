@@ -15,11 +15,6 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "Juvenile - Gravity Defying Skincare",
   description: "Experience the magic of glass skin with Juvenile Skincare.",
-  icons: {
-    icon: "/juvenile.jpg",
-    shortcut: "/juvenile.jpg",
-    apple: "/juvenile.jpg",
-  },
 };
 
 export default function RootLayout({
